@@ -77,7 +77,7 @@
       <button onclick="showInfo('new')">New Media</button>
       <p id="infoText">Click a button to learn more.</p>
     </div>
-  </div>
+  
 
   <script>
     function showInfo(type) {
@@ -91,3 +91,4 @@
   </script>
 </body>
 </html>
+
